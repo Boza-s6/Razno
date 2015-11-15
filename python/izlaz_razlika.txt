@@ -1,0 +1,13 @@
+//dat1
+//netacno
+same=1;
+ if(s1[i]!=s2[i]){
+ same=0;
+ break;
+ }
+return same;
+//dat2
+//tacno
+ if(s1[i]!=s2[i])
+ return 0;
+return s1[i]==s2[i];
